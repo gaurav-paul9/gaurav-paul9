@@ -49,5 +49,6 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gaurav-paul9/gaurav-paul9/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/gaurav-paul9/gaurav-paul9/output/github-contribution-grid-snake.svg" />
 </p>
+
