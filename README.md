@@ -18,7 +18,7 @@
 ## 🌱 About Me
 - 📱 **• ROM Builder • Linux Explorer**  
 - 🩺 **MBBS Doctor** — Yeah! dual-booting between medicine and makefiles.  
-- 🛠️ Curently Maintainig Custom ROMs for **OnePlus 12R (Aston)**  
+- 🛠️ Curently Maintaining Custom ROMs for **OnePlus 12R (Aston)**  
 - 🐧 Learning **Linux**
 
 ## 🤝 Connect With Me
