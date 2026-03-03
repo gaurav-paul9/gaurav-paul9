@@ -5,7 +5,7 @@
 
 <!-- Bigger Interest Line -->
 <h3 align="center">
-  🌟 Passionate about Custom ROM Building • Android Development • Linux Exploration 🌟
+  🌟 I Just Build Custom Roms As A Hobby 🌟
 </h3>
 
 <!-- Animated Divider -->
@@ -17,19 +17,9 @@
 
 ## 🌱 About Me
 - 📱 **• ROM Builder • Linux Explorer**  
-- 🩺 **MBBS (Final Year Student)** — dual-booting between medicine and makefiles.  
-- 👨‍💻 Enthusiastic newbie diving deep into **ROMs, kernels & Android internals**  
-- ⚡ Quick learner — break → understand → fix → repeat 🔁  
-- 🛠️ Built custom ROMs for **OnePlus 12R (Aston)**  
-- 🐧 Learning **Linux**  
-- 🔍 Curious about how Android works under the hood — device trees, hardware quirks & vendor magic  
-- ✨ Always exploring, always improving, always having fun coding 💜  
-
-## ❤️ What I Enjoy
-- 🔧 Building & optimizing Custom ROMs  
-- 🐧 Linux tinkering  
-- 📱 Android development and experimenting  
-- 🚀 Learning new tech every day  
+- 🩺 **MBBS Doctor** — Yeah! dual-booting between medicine and makefiles.  
+- 🛠️ Curently Maintainig Custom ROMs for **OnePlus 12R (Aston)**  
+- 🐧 Learning **Linux**
 
 ## 🤝 Connect With Me
 <p align="left">
